@@ -39,7 +39,7 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KhomeshG\&show_icons=true\&rank_icon=github)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KhomeshG&show_icons=true&rank_icon=github)
 
 ---
 
