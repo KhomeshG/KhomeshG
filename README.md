@@ -1,3 +1,4 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Khomesh%20Gajbhiye&fontAlign=50&fontAlignY=40&color=gradient" />
 # Hi 👋, I'm Khomesh Gajbhiye
 
 ### Backend Engineer | AWS Certified Solutions Architect – Associate | Node.js Developer
@@ -9,7 +10,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=KhomeshG&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Khomesh%20Gajbhiye&fontAlign=50&fontAlignY=40&color=gradient" />
+
 ---
 
 ## 🚀 About Me
