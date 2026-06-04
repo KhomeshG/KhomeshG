@@ -1,3 +1,4 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Khomesh%20Gajbhiye&fontAlign=50&fontAlignY=40&color=gradient" />
 # Hi 👋, I'm Khomesh Gajbhiye
 
 ### Backend Engineer | AWS Certified Solutions Architect – Associate | Node.js Developer
