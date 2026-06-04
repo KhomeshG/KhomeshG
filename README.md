@@ -103,8 +103,8 @@ Scalable backend API starter template.
 
 ## 📫 Connect With Me
 
-* GitHub: https://github.com/KhomeshG
-* LinkedIn: www.linkedin.com/in/khomesh-gajbhiye-546052233
+- GitHub: https://github.com/KhomeshG
+- LinkedIn: https://www.linkedin.com/in/khomesh-gajbhiye-546052233
 
 ---
 
@@ -119,3 +119,9 @@ Scalable backend API starter template.
 I enjoy building backend systems, cloud infrastructure and automated solutions that scale.
 
 ⭐ Thanks for visiting my profile!
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/KhomeshG/KhomeshG/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
