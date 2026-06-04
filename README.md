@@ -123,5 +123,5 @@ I enjoy building backend systems, cloud infrastructure and automated solutions t
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/KhomeshG/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/KhomeshG/KhomeshG/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
